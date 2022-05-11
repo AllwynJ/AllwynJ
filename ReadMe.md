@@ -5,10 +5,10 @@ Hi 👋 My name is Allwyn J
 <p align="left"> <a href="https://discord.com/users/Allwyn J#2815" target="_blank" rel="noreferrer">
 <img src="/GithubProfile Icons/discord.svg" width="32" height="32" /></a> 
 <a href="https://www.facebook.com/allwynj2000" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/facebook.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/allwynj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/allwynj" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/github.svg" width="32" height="32" /></a> 
 <a href="http://www.instagram.com/allwyn__j)" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/instagram.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/allwynj" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/linkedin.svg" width="32" height="32" /></a> 
-<a href="http://www.medium.com/@allwynj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> 
+<a href="http://www.medium.com/@allwynj" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/medium.svg" width="32" height="32" /></a> 
 <a href="https://www.twitter.com/Allwyn__J" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/twitter.svg" width="32" height="32" /></a></p>
 
 
@@ -38,21 +38,22 @@ Graduate at SRM Institute of Science and Technology, BCA and Drawn towards to Kn
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/mysql.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/raspberrypi.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/adobe-after-effects.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/adobe-illustrator.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/adobe-photoshop.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/adobe-premiere-pro.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/anaconda.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/apache.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/aws.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/blender.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/canva.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/inkscape.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/java.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/numpy.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/postman.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/tensorflow.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/html5.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/adobe-after-effects.svg" width="36" height="36" alt="Adobe After Effects" /></a>
+<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/adobe-illustrator.svg" width="36" height="36" alt="Adobe Illustrator" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/adobe-photoshop.svg" width="36" height="36" alt="Adobe Photoshop" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/adobe-premiere-pro.svg" width="36" height="36" alt="Adobe Premiere Pro" /></a>
+<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/anaconda.svg" width="36" height="36" alt="Anaconda" /></a>
+<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/apache.svg" width="36" height="36" alt="Apache" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/aws.svg" width="36" height="36" alt="AWS" /></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/blender.svg" width="36" height="36" alt="Blender" /></a>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/canva.svg" width="36" height="36" alt="Canva" /></a>
+<a href="https://inkscape.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/inkscape.svg" width="36" height="36" alt="Inkscape" /></a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/java.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/numpy.svg" width="36" height="36" alt="Numpy" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/postman.svg" width="36" height="36" alt="Postman" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/tensorflow.svg" width="36" height="36" alt="Tensorflow" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/html5.svg" width="36" height="36" alt="html5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/css3.svg" width="36" height="36" alt="css3" /></a>
 </p>
 
 
@@ -82,4 +83,4 @@ Graduate at SRM Institute of Science and Technology, BCA and Drawn towards to Kn
 
 ## 💰You can help me by Donating
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/allwynj2000) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/allwynj2000)
