@@ -14,9 +14,9 @@ Graduate at SRM Institute of Science and Technology, BCA and Drawn towards to Kn
 * ⚡  God has a bigger plan for me than I have for myself
 
 <a href="https://www.twitter.com/Allwyn__J" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Allwyn__J?logo=twitter&style=for-the-badge&color=ec4899&labelColor=000000"
+src="https://img.shields.io/twitter/follow/Allwyn__J?logo=twitter&style=for-the-badge&color=ec4899&labelColor=transparent"
 /></a><a href="https://www.github.com/allwynj" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/allwynj?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/allwynj?logo=github&style=for-the-badge&color=ec4899&labelColor=transparent" /></a>
 
 ### Skills
 
@@ -44,10 +44,10 @@ src="https://img.shields.io/github/followers/allwynj?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/allwynj"><img src="https://github-readme-stats.vercel.app/api?username=allwynj&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=14b8a6&icon_color=ec4899&bg_color=000000&opacity: .&hide_border=true&show_icons=true" alt="allwynj's GitHub stats" /></a>
+<a href="http://www.github.com/allwynj"><img src="https://github-readme-stats.vercel.app/api?username=allwynj&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=14b8a6&icon_color=ec4899&bg_color=transparent&opacity: .&hide_border=false&show_icons=true" alt="allwynj's GitHub stats" /></a>
 
-<a href="http://www.github.com/allwynj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=allwynj&stroke=14b8a6&background=000000&ring=f97316&fire=f97316&currStreakNum=14b8a6&currStreakLabel=f97316&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+<a href="http://www.github.com/allwynj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=allwynj&stroke=14b8a6&background=transparent&ring=f97316&fire=f97316&currStreakNum=14b8a6&currStreakLabel=f97316&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=false" /></a>
 
-<a href="http://www.github.com/allwynj"><img src="https://activity-graph.herokuapp.com/graph?username=allwynj&bg_color=000000&color=14b8a6&line=ec4899&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/allwynj"><img src="https://activity-graph.herokuapp.com/graph?username=allwynj&bg_color=transparent&color=14b8a6&line=ec4899&point=14b8a6&area_color=000000&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/allwynj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwynj&langs_count=10&layout=compact&title_color=f97316&text_color=14b8a6&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/allwynj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwynj&langs_count=10&layout=compact&title_color=f97316&text_color=14b8a6&icon_color=ec4899&bg_color=transparent&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
