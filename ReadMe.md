@@ -38,10 +38,10 @@ Graduate at SRM Institute of Science and Technology, BCA and Drawn towards to Kn
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/mysql.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/raspberrypi.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/abobe-after-effects.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/abobe-illustrator.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/abobe-photoshop.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/abobe-premiere-pro.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/adobe-after-effects.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/adobe-illustrator.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/adobe-photoshop.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/adobe-premiere-pro.svg" width="36" height="36" alt="RaspberryPi" /></a>
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/anaconda.svg" width="36" height="36" alt="RaspberryPi" /></a>
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/apache.svg" width="36" height="36" alt="RaspberryPi" /></a>
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/aws.svg" width="36" height="36" alt="RaspberryPi" /></a>
