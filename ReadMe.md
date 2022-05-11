@@ -44,7 +44,7 @@ src="https://img.shields.io/github/followers/allwynj?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/allwynj"><img src="https://github-readme-stats.vercel.app/api?username=allwynj&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=14b8a6&icon_color=ec4899&bg_color=transparent&hide_border=true&show_icons=true" alt="allwynj's GitHub stats" /></
+<a href="http://www.github.com/allwynj"><img src="https://github-readme-stats.vercel.app/api?username=allwynj&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=14b8a6&icon_color=ec4899&bg_color=transparent&hide_border=true&show_icons=true" alt="allwynj's GitHub stats" /></a>
 
 <a href="http://www.github.com/allwynj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=allwynj&stroke=14b8a6&background=transparent&ring=f97316&fire=f97316&currStreakNum=14b8a6&currStreakLabel=f97316&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=false" /></a>
 
