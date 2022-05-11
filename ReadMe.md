@@ -1,5 +1,9 @@
 Hi 👋 My name is Allwyn J
 =========================
+### Connect with me:
+
+<p align="left"> <a href="https://discord.com/users/Allwyn J#2815" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/allwynj2000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/allwynj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/allwyn__j)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/allwynj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@allwynj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Allwyn__J" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 
 Data Analyst | Data Scientist | Java Developer
 ----------------------------------------------
@@ -13,10 +17,9 @@ Graduate at SRM Institute of Science and Technology, BCA and Drawn towards to Kn
 * 🤝  I'm open to collaborating on any analytics projects
 * ⚡  God has a bigger plan for me than I have for myself
 
-<a href="https://www.twitter.com/Allwyn__J" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Allwyn__J?logo=twitter&style=for-the-badge&color=ec4899&labelColor=transparent"
-/></a><a href="https://www.github.com/allwynj" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/allwynj?logo=github&style=for-the-badge&color=ec4899&labelColor=transparent" /></a>
+<a href="https://www.twitter.com/Allwyn__J" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Allwyn__J?logo=twitter&style=for-the-badge&color=ec4899&labelColor=0C1116"/></a>
+<a href="https://www.github.com/allwynj" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/allwynj?logo=github&style=for-the-badge&color=ec4899&labelColor=0C1116" /></a>
+<a herf="https://www.github.com/allwynj" target="_blank" rel="noreferrer"><img src="https://hits.sh/github.com/silentsoft/hits.svg?style=for-the-badge&label=profile%20views&color=ec4899&labelColor=0C1116"></a>
 
 ### Skills
 
@@ -31,9 +34,6 @@ src="https://img.shields.io/github/followers/allwynj?logo=github&style=for-the-b
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/Allwyn J#2815" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/allwynj2000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/allwynj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/allwyn__j)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/allwynj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@allwynj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Allwyn__J" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -44,10 +44,21 @@ src="https://img.shields.io/github/followers/allwynj?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/allwynj"><img src="https://github-readme-stats.vercel.app/api?username=allwynj&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=transperent&hide_border=true&show_icons=true" alt="allwynj's GitHub stats" /></a>
+<a href="http://www.github.com/allwynj"><img src="https://github-readme-stats.vercel.app/api?username=allwynj&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=0C1116&hide_border=true&show_icons=true" alt="allwynj's GitHub stats" /></a>
 
-<a href="http://www.github.com/allwynj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=allwynj&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/allwynj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=allwynj&stroke=ffffff&background=0C1116&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/allwynj"><img src="https://activity-graph.herokuapp.com/graph?username=allwynj&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/allwynj"><img src="https://activity-graph.herokuapp.com/graph?username=allwynj&bg_color=0C1116&color=ffffff&line=14b8a6&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/allwynj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwynj&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/allwynj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwynj&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=0C1116&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
+
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+[![](https://visitcount.itsvg.in/api?id=allwynj&icon=2&color=0)](https://visitcount.itsvg.in)
+
+## 💰You can help me by Donating
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/allwynj2000) 
