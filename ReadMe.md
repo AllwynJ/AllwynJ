@@ -3,7 +3,7 @@ Hi 👋 My name is Allwyn J
 ### Connect with me:
 
 <p align="left"> <a href="https://discord.com/users/Allwyn J#2815" target="_blank" rel="noreferrer">
-<img src="\GithubProfile Icons\discord.svg" width="32" height="32" /></a> 
+<img src="\\GithubProfile Icons\\discord.svg" width="32" height="32" /></a> 
 <a href="https://www.facebook.com/allwynj2000" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\facebook.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/allwynj" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\github.svg" width="32" height="32" /></a> 
 <a href="http://www.instagram.com/allwyn__j)" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\instagram.svg" width="32" height="32" /></a> 
