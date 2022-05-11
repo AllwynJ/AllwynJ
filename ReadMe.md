@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/allwynj?logo=github&style=for-the-b
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://www.flaticon.com/free-icon/photoshop_5968520?term=adobe&page=1&position=3&page=1&position=3&related_id=5968520&origin=search" width="36" height="36" alt="Ethereum" /></a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-dreamstale-lineal-dreamstale/32/000000/external-svg-file-types-dreamstale-lineal-dreamstale.png" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
 
@@ -37,12 +37,17 @@ src="https://img.shields.io/github/followers/allwynj?logo=github&style=for-the-b
 
 ### Badges
 
+<b>My GitHub Trophy</b>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=allwynj&theme=dark_lover&no-bg=true&no-frame=true&title=Joined2020,Stars,Issues,Commit,Repositories,PullRequest)
+
+
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/allwynj"><img src="https://github-readme-stats.vercel.app/api?username=allwynj&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=14b8a6&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="allwynj's GitHub stats" /></a>
+<a href="http://www.github.com/allwynj"><img src="https://github-readme-stats.vercel.app/api?username=allwynj&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=14b8a6&icon_color=ec4899&bg_color=000000&opacity: .&hide_border=true&show_icons=true" alt="allwynj's GitHub stats" /></a>
 
 <a href="http://www.github.com/allwynj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=allwynj&stroke=14b8a6&background=000000&ring=f97316&fire=f97316&currStreakNum=14b8a6&currStreakLabel=f97316&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
 <a href="http://www.github.com/allwynj"><img src="https://activity-graph.herokuapp.com/graph?username=allwynj&bg_color=000000&color=14b8a6&line=ec4899&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/allwynj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwynj&langs_count=10&title_color=f97316&text_color=14b8a6&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/allwynj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwynj&langs_count=10&layout=compact&title_color=f97316&text_color=14b8a6&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
