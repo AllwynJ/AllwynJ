@@ -4,12 +4,12 @@ Hi 👋 My name is Allwyn J
 
 <p align="left"> <a href="https://discord.com/users/Allwyn J#2815" target="_blank" rel="noreferrer">
 <img src="/GithubProfile Icons/discord.svg" width="32" height="32" /></a> 
-<a href="https://www.facebook.com/allwynj2000" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\facebook.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/allwynj" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\github.svg" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/allwyn__j)" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\instagram.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/allwynj" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\linkedin.svg" width="32" height="32" /></a> 
-<a href="http://www.medium.com/@allwynj" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\medium.svg" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/Allwyn__J" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\twitter.svg" width="32" height="32" /></a></p>
+<a href="https://www.facebook.com/allwynj2000" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/facebook.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/allwynj" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/github.svg" width="32" height="32" /></a> 
+<a href="http://www.instagram.com/allwyn__j)" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/instagram.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/allwynj" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/linkedin.svg" width="32" height="32" /></a> 
+<a href="http://www.medium.com/@allwynj" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/medium.svg" width="32" height="32" /></a> 
+<a href="https://www.twitter.com/Allwyn__J" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/twitter.svg" width="32" height="32" /></a></p>
 
 
 Data Analyst | Data Scientist | Java Developer
@@ -31,28 +31,28 @@ Graduate at SRM Institute of Science and Technology, BCA and Drawn towards to Kn
 ### Skills
 
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\java.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\python.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\html5.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\css3.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\mysql.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\raspberrypi.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\abobe-after-effects.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\abobe-illustrator.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\abobe-photoshop.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\abobe-premiere-pro.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\anaconda.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\apache.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\aws.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\blender.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\canva.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\inkscape.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\java.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\numpy.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\postman.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\tensorflow.svg" width="36" height="36" alt="RaspberryPi" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="\GithubProfile Icons\html5.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/java.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/python.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/html5.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/css3.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/mysql.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/raspberrypi.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/abobe-after-effects.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/abobe-illustrator.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/abobe-photoshop.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/abobe-premiere-pro.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/anaconda.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/apache.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/aws.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/blender.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/canva.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/inkscape.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/java.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/numpy.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/postman.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/tensorflow.svg" width="36" height="36" alt="RaspberryPi" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/html5.svg" width="36" height="36" alt="RaspberryPi" /></a>
 </p>
 
 
