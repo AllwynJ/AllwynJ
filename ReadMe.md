@@ -53,12 +53,12 @@ Graduate at SRM Institute of Science and Technology, BCA and Drawn towards to Kn
 <a href="https://github.com/allwynj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwynj&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=0C1116&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-[![](https://visitcount.itsvg.in/api?id=allwynj&icon=2&color=0)](https://visitcount.itsvg.in)
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ## 💰You can help me by Donating
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/allwynj2000) 
+
