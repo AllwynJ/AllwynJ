@@ -44,7 +44,7 @@ Graduate at SRM Institute of Science and Technology, BCA and Drawn towards to Kn
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/adobe-premiere-pro.svg" width="36" height="36" alt="Adobe Premiere Pro" /></a>
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/anaconda.svg" width="36" height="36" alt="Anaconda" /></a>
 <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/apache.svg" width="36" height="36" alt="Apache" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/aws.svg" width="36" height="36" alt="AWS" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/aw.svg" width="36" height="36" alt="AWS" /></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/blender.svg" width="36" height="36" alt="Blender" /></a>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/canva.svg" width="36" height="36" alt="Canva" /></a>
 <a href="https://inkscape.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/inkscape.svg" width="36" height="36" alt="Inkscape" /></a>
