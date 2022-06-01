@@ -1,4 +1,4 @@
-Hi 👋 My name is Allwyn J
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=30&color=E6F739&width=600&lines=Hi+there%2C+I'm+Allwyn.J;Hi+there%2C+you+can+call+me+Allwyn;Hi+there%2C+I'm+a+Data+Analyst;Hi+there%2C+I'm+a+Developer;Hi+there%2C+I'm+a+Gamer)](https://git.io/typing-svg)
 =========================
 ### Connect with me:
 
