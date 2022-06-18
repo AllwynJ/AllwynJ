@@ -73,8 +73,7 @@ Graduate at SRM Institute of Science and Technology, BCA and Drawn towards to Kn
 
 <a href="http://www.github.com/allwynj"><img src="https://activity-graph.herokuapp.com/graph?username=allwynj&bg_color=0C1116&color=ffffff&line=14b8a6&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/allwynj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwynj&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=0C1116&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
-
+<a href="https://github.com/allwynj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwynj&layout=compact?username=allwynj&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=0C1116&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 
 
 ### ✍️Random Dev Quote
