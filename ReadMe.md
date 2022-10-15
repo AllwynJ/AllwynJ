@@ -52,9 +52,7 @@ Graduate at SRM Institute of Science and Technology, BCA and Drawn towards to Kn
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/numpy.svg" width="36" height="36" alt="Numpy" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/postman.svg" width="36" height="36" alt="Postman" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/tensorflow.svg" width="36" height="36" alt="Tensorflow" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/html5.svg" width="36" height="36" alt="html5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/css3.svg" width="36" height="36" alt="css3" /></a>
-</p>
+
 
 
 
