@@ -24,7 +24,7 @@ Graduate at SRM Institute of Science and Technology, BCA and Drawn towards to Kn
 * 🤝  I'm open to collaborating on any analytics projects
 * ⚡  God has a bigger plan for me than I have for myself
 
-<a href="https://www.twitter.com/Allwyn__J" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Allwyn__J?logo=twitter&style=for-the-badge&color=ec4899&labelColor=0C1116"/></a>
+
 <a href="https://www.github.com/allwynj" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/allwynj?logo=github&style=for-the-badge&color=ec4899&labelColor=0C1116" /></a>
 <a herf="https://www.github.com/allwynj" target="_blank" rel="noreferrer"><img src="https://hits.sh/github.com/silentsoft/hits.svg?style=for-the-badge&label=profile%20views&color=ec4899&labelColor=0C1116"></a>
 
