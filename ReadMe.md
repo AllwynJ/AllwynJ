@@ -4,12 +4,9 @@
 
 <p align="left"> <a href="https://discord.com/users/Allwyn J#2815" target="_blank" rel="noreferrer">
 <img src="/GithubProfile Icons/discord.svg" width="32" height="32" /></a> 
-<a href="https://www.facebook.com/allwynj2000" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/facebook.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/allwynj" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/github.svg" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/allwyn__j)" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/instagram.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/allwynj" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/linkedin.svg" width="32" height="32" /></a> 
 <a href="http://www.medium.com/@allwynj" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/medium.svg" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/Allwyn__J" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/twitter.svg" width="32" height="32" /></a></p>
 
 
 Data Analyst | Data Scientist | Java Developer
@@ -65,12 +62,6 @@ Graduate at SRM Institute of Science and Technology, BCA and Drawn towards to Kn
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/allwynj"><img src="https://github-readme-stats.vercel.app/api?username=allwynj&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=0C1116&hide_border=true&show_icons=true" alt="allwynj's GitHub stats" /></a>
-
-<a href="http://www.github.com/allwynj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=allwynj&stroke=ffffff&background=0C1116&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/allwynj"><img src="https://activity-graph.herokuapp.com/graph?username=allwynj&bg_color=0C1116&color=ffffff&line=14b8a6&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/allwynj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwynj&layout=compact?username=allwynj&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=0C1116&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 
 
@@ -79,5 +70,4 @@ Graduate at SRM Institute of Science and Technology, BCA and Drawn towards to Kn
 
 
 ## 💰You can help me by Donating
-
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/allwynj2000)
