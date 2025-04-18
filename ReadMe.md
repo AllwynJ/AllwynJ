@@ -59,12 +59,6 @@ Graduate at SRM Institute of Science and Technology, BCA and Drawn towards to Kn
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=allwynj&theme=dark_lover&no-bg=true&no-frame=true&title=Joined2020,Stars,Issues,Commit,Repositories,PullRequest)
 
-
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/allwynj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwynj&layout=compact?username=allwynj&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=0C1116&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
-
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
