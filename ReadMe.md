@@ -50,18 +50,10 @@ Graduate at SRM Institute of Science and Technology, BCA and Drawn towards to Kn
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/postman.svg" width="36" height="36" alt="Postman" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="/GithubProfile Icons/tensorflow.svg" width="36" height="36" alt="Tensorflow" /></a>
 
-
-
-
-### Badges
-
-<b>My GitHub Trophy</b>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=allwynj&theme=dark_lover&no-bg=true&no-frame=true&title=Joined2020,Stars,Issues,Commit,Repositories,PullRequest)
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 ## 💰You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/allwynj2000)
+
